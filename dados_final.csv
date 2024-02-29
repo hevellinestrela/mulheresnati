@@ -1,0 +1,102 @@
+;Nome;Instituição;Cidade;Estado;Periodo;Região;Tipo;ÓRGÃO;Latitude;Longitude
+0;#include <GURIAS> ;UERGS  Universidade Estadual do Rio Grande do Sul;Guaíba ;RS;2018;SUL;PÚBLICA;UERGS;-30.1130731;-51.329442
+1;Include meninas;Universidade Federal Fluminense;Niterói ;RJ;2016;SUDESTE;PÚBLICA;UFF;-22.8884;-43.1147
+2;Include <Girls>;Universidade Federal de Uberlândia (UFU);Uberlândia ;MG;2021;SUDESTE;PÚBLICA;UFU;-18.9188041;-48.2767837
+3;Adas;Instituto de Informática, Campus Samambaia  UFG;Goiânia ;GO;2017;CO;PÚBLICA;UFG;-16.680882;-49.2532691
+4;Aprenda a programar jogando;Universidade Federal do Rio de Janeiro  Campus Macaé;Macaé ;RJ;2016;SUDESTE;PÚBLICA;UFRJ;-22.3712958;-41.7866922
+5;As PadaWoman: Elevando Vozes, Elevando Mulheres;CEFET-MG;Divinópolis ;MG;2023;SUDESTE;PÚBLICA;CEFET-MG;-20.1597921;-44.8739341
+6;B-Lab Girls;B-Lab Learning Space;Passo Fundo ;RS;2018;SUDESTE;PRIVADA;SALESIANO;-28.2550598;-52.3966606
+7;BitGirls;UFMG  Belo Horizonte, MG;Belo Horizonte;MG;2018;SUDESTE;PÚBLICA;UFMG;-19.9227318;-43.9450948
+8;BitRosa  Elas na Computação;IFRS  Campus Ibiruba;Ibirubá ;RS;2015;SUL;PÚBLICA;IFRS;-28.630161;-53.096124
+9;Bytes Girls;UESPI  Universidade Estadual do Piauí  Campus Floriano;Florino ;PI;2019;NORTE;PÚBLICA;UESPI;;
+10;Caliandras Digitais;Instituto Federal de Educação, Ciência e Tecnologia de Goiás  Campus Formosa;Formosa ;GO;2020;CO;PÚBLICA;IFG;-15.5492443;-47.3301212
+11;Catarinas;UDESC  Universidade do Estado de Santa Catarina;Joinville ;SC;2016;SUL;PÚBLICA;UDESC;-26.3044898;-48.8486726
+12;Cintia (Ciência e Tecnologia da Informação com Elas);Centro de Informática, Universidade Federal de Pernambuco;Recife ;PE;2018;NORDESTE;PÚBLICA;UFPE;-8.0584933;-34.8848193
+13;CodificADAs;Universidade de São Paulo  USP;São Paulo;SP;2020;SUDESTE;PÚBLICA;USP;-23.682794700000002;-46.716998204286014
+14;Coletivo Mirtha Lina (cMiN@);UFABC  Universidade Federal do ABC;Santo André ;SP;2018;SUDESTE;PÚBLICA;UFABC;-23.6533509;-46.5279039
+15;Concat(gurias);Universidade Federal do Paraná  UFPR;Curitiba ;PR;2023;SUL;PÚBLICA;UFPR;-25.4295963;-49.2712724
+16;Conectadas;Universidade Estadual de Maringá;Maringá ;PR;2017;SUL;PÚBLICA;UEM;-23.425269;-51.9382078
+17;Corte de Lovelace;Cefor  Instituto Federal do Espírito Santo;Vila Velha ;ES;2017;SUDESTE;PÚBLICA;IFES;-20.3297037;-40.2920174
+18;Cunhantã Digital;UFAM / UEA / FUCAPI;Amazonas;AM;2015;NORTE;PÚBLICA;UFAM;-2.6323027;-57.1711791
+19;DAMAS;Instituto Federal de Minas Gerais.;Ribeirão das Neves ;MG;2020;SUDESTE;PÚBLICA;IFMG;-19.7672898;-44.0875436
+20;Delas para Elas;CEFET-MG  Campus Leopoldina;Leopoldina ;MG;2023;SUDESTE;PÚBLICA;CEFET-MG;-21.5314282;-42.6403534
+21;Developer Girls;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul;Aquidauana ;MS;2017;CO;PÚBLICA;IFMS;-20.473969;-55.7821375
+22;Divas;IFCE Câmpus Aracati;Aracati ;CE;2015;NORDESTE;PÚBLICA;IFCE;-4.558259;-37.767894
+23;Dorothy Piauí;Universidade Federal do Piauí  UFPI;Teresina ;PI;2023;NORTE;PÚBLICA;UFPI;-5.0874608;-42.8049571
+24;Ei Mana!;Universidade Federal do Amazonas;Itacoatiara ;AM;2018;NORTE;PÚBLICA;UFAM;-3.1477898;-58.4461041
+25;Elas Digitais IFSC;Instituto Federal de Santa Catarina;Gaspar ;SC;2019;SUL;PÚBLICA;IFSC;-26.9307306;-48.9566824
+26;Elas++ (elas mais mais);PUC Minas  Praça da Liberdade;Belo Horizonte ;MG;2020;SUDESTE;PRIVADA;PUC;-19.9227318;-43.9450948
+27;Elas.net;CEFET-MG;Belo Horizonte ;MG;2018;SUDESTE;PÚBLICA;CEFET-MG;-19.9227318;-43.9450948
+28;Emíli@s  Armação em Bits;DAINF  UTFPR;Curitiba ;PR;2013;SUL;PÚBLICA;UTFPR;-25.4295963;-49.2712724
+29;FaTech Girls;FATEC  SP;Bom Retiro, São Paulo ;SP;2017;SUDESTE;PÚBLICA;FATEC;-23.5251634;-46.6381644
+30;ForGirls;IFPB  Instituto Federal de Educação Ciência e Tecnologia da Paraíba;Campina Grande ;PB;2019;NORDESTE;PÚBLICA;IFPB;-7.2246743;-35.8771292
+31;Garotas Applicadas;Associação Efigênia Vidigal de Educação e Cultura  AVEC;Belo Horizonte ;MG;2019;SUDESTE;PRIVADA;AVEC;-19.9227318;-43.9450948
+32;Garotas Tech dos Sertões de Crateús;Universidade Federal do Ceará  Campus Crateús;Crateús ;CE;2019;NORDESTE;PÚBLICA;UFCE;-5.1782451;-40.6696545
+33;GECET: Garotas nas Engenharias, Ciências Exatas e Tecnologias;Universidade Estadual Paulista  UNESP;Rosana ;SP;2020;SUDESTE;PÚBLICA;UNESP;-22.5788641;-53.0552246
+34;Girls of Science;Instituto Federal do Sul de Minas  IFSULDEMINAS;Inconfidentes ;MG;2019;SUDESTE;PÚBLICA;IFSULDEMINAS;-22.3168866;-46.3279182
+35;GIRLS POWER IN PROGRAMMING;Instituto Federal do Paraná;Palmas ;PR;2019;SUL;PÚBLICA;UFPR;-26.483868;-51.988812
+36;GRACE  Grupo de Alunas nas Ciências Exatas;Universidade de São Paulo  Instituto de Ciências Matemáticas e de Computação (ICMC);São Carlos ;SP;2018;SUDESTE;PÚBLICA;USP;-22.0180395;-47.891154
+37;GRACE USP- GaRotAs na Computação e Empreendedorismo;Universidade de São Paulo (USP)  campus Leste (Escola de Artes, Ciência e Humanidades  EACH);São Paulo ;SP;2017;SUDESTE;PÚBLICA;USP;-23.682794700000002;-46.716998204286014
+38;Gurias da Comp;Universidade Federal de Pelotas;Pelotas-RS;RS;2023;SUL;PÚBLICA;UFPel;-31.7699736;-52.3410161
+39;Gurias Digitais;Universidade Regional Integrada do Alto Uruguai e das Missões (URI);Santiago ;RS;2018;SUL;PÚBLICA;URI;-29.189675;-54.866624
+40;Gurias na Computação;Universidade Federal do Pampa (UNIPAMPA)  Câmpus Alegrete;Alegrete ;RS;2016;SUL;PÚBLICA;UNIPAMPA;-29.790166;-55.794862
+41;Igualdade STEM;Instituto Superior Técnico de Lisboa, LUDES (COPPE/UFRJ);Rio de Janeiro ;RJ;2020;SUDESTE;PÚBLICA;UFRJ;-22.9110137;-43.2093727
+42;IT Girls  Garotas na Tecnologia da Informação;Universidade Federal da Paraíba  Câmpus IV;João Pessoa ;PB;2016;NORDESTE;PÚBLICA;UFPB;-7.1215981;-34.882028
+43;JUMI;Universidad de Medellín;Medellín, Antioquía, Colômbia;DF;2021;INTERNACIONAL;PÚBLICA;;;
+44;Katie: saindo do buraco negro e impulsionando as meninas na computação;Instituto de Computação da Universidade Federal de Alagoas campus Maceió;Maceió ;AL;2019;NORDESTE;PÚBLICA;IFAL;-9.6476843;-35.7339264
+45;Maia  Meninas Aprendendo Inteligência Artificial;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul;Aquidauana ;MS;2018;CO;PÚBLICA;IFMS;-20.473969;-55.7821375
+46;Meninas Cientistas;Instituto Federal de Goiás;Uruaçu ;GO;2018;CO;PÚBLICA;IFG;-14.5244164;-49.1510022
+47;MENINAS DA GEOTECNOLOGIA;IFPA  Campus Castanhal;Belém ;PA;2019;NORTE;PÚBLICA;IFPA;-1.45056;-48.4682453
+48;Meninas de Sistemas;UFPA Campus Cametá;Cametá ;PA;2023;NORTE;PÚBLICA;UFPA;-2.242949;-49.497885
+49;Meninas Digitais  UTFPR-CP;Universidade Tecnológica Federal do Paraná  Campus Cornélio Procópio;Cornélio Procópio ;PR;2023;SUL;PÚBLICA;UTFPR;-23.1825218;-50.6499263
+50;Meninas Digitais de Rio Pomba;Instituto Federal do Sudeste de Minas Gerais  Campus Rio Pomba;Rio Pomba;MG;2019;SUDESTE;PÚBLICA;IFAL;-21.275;-43.178889
+51;Meninas Digitais do Norte Fluminense: as Goytatecs;Instituto Federal Fluminense;Campos dos Goytacazes ;RJ;2022;SUDESTE;PÚBLICA;IFSUDESTE-MG;-21.7546;-41.3242
+52;Meninas Digitais do Sudoeste da Bahia;Instituto Federal da Bahia (IFBA);Vitória da Conquista ;BA;2019;NORDESTE;PÚBLICA;IFBA;-14.8567487;-40.8414804
+53;Meninas Digitais do Vale;Universidade Federal do Ceará  Campus de Russas;Russas ;CE;2018;NORDESTE;PÚBLICA;UFCE;-4.9354279;-37.9783838
+54;Meninas Digitais Dourados  Heroínas Digitais;Universidade Federal da Grande Dourados (UFGD);Dourados ;MS;2018;CO;PÚBLICA;UFGD;-22.2206145;-54.812208
+55;Meninas Digitais IFMT Cuiabá;IFMT Campus Cuiabá;Cuiabá ;MT;2015;CO;PÚBLICA;IFMT;-15.5986686;-56.0991301
+56;Meninas Digitais IFSULDEMINAS;Instituto Federal do Sul de Minas Gerais;Machado ;MG;2019;SUDESTE;PÚBLICA;IFSULDEMINAS;-21.6762861;-45.9211696
+57;Meninas Digitais Mato Grosso;Instituto de Computação  UFMT Cuiabá;Cuiabá;MT;2015;CO;PÚBLICA;UFMT;-15.5986686;-56.0991301
+58;Meninas Digitais na Baixada Fluminense;Universidade Federal Rural do Rio de Janeiro;Nova Iguaçu ;RJ;2019;SUDESTE;PÚBLICA;UFRRJ;-22.7592175;-43.4508728
+59;Meninas Digitais na Computação  UNIJUI;UNIJUI;IJUÍ;RS;2019;SUL;PRIVADA;UNIJUI;-28.3878734;-53.9201692
+60;Meninas Digitais na IENH;Faculdade IENH;Novo Hamburgo ;RS;2019;SUL;PRIVADA;IENH;-29.6905705;-51.1429035
+61;Meninas Digitais no Cerrado;Instituto Federal Goiano  Campus Ceres;Ceres ;GO;2016;CO;PÚBLICA;IF GOIANO;-15.3103568;-49.6032054
+62;Meninas Digitais Regional Bahia;UBFA;Salvador ;BA;2016;NORDESTE;PÚBLICA;UFBA;-12.9822499;-38.4812772
+63;Meninas Digitais Tchê Missões;URI Campus de Santo Ângelo;Santo Ângelo ;RS;2016;SUL;PRIVADA;URI;-28.3000481;-54.2669971
+64;Meninas Digitais UFJF;Universidade Federal de Juiz de Fora;Juiz de Fora ;MG;2022;SUDESTE;PÚBLICA;UFJF;-21.7609533;-43.3501129
+65;Meninas Digitais UFSC;UFSC Campus Araranguá;Araranguá ;SC;2013;SUL;PÚBLICA;UFSC;-28.9348832;-49.4858389
+66;Meninas Digitais Vale do Itajaí;Universidade Regional de Blumenau (FURB);Blumenau ;SC;2018;SUL;PÚBLICA;FURB;-26.9195567;-49.0658025
+67;Meninas High Tech;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul  Campus Feliz;Feliz ;RS;2019;SUL;PÚBLICA;IFRS;-29.4523254;-51.3069785
+68;Meninas Mais Mais;Universidade Federal de Viçosa Campus Rio Paranaíba;Rio Paranaíba ;MG;2014;SUDESTE;PÚBLICA;UFV;-19.1965275;-46.2411395
+69;Meninas na Ciência da Computação;Centro de Informática  UFPB;João Pessoa ;PB;2014;NORDESTE;PÚBLICA;UFPB;-7.1215981;-34.882028
+70;Meninas na Ciência IFB;Instituto Federal de Brasília;Brasília ;DF;2022;CO;PÚBLICA;IFB;-15.7934036;-47.8823172
+71;Meninas na Computação UNIFAP;Universidade Federal do Amapá;Macapá ;AP;2018;NORTE;PÚBLICA;INIFAP;0.0401529;-51.0569588
+72;Meninas na Programação;Instituto Federal de Ciência, Educação e Tecnologia de São Paulo  IFSP;Guarulhos;SP;2018;SUDESTE;PÚBLICA;IFSP;-23.4675941;-46.5277704
+73;Meninas na Robótica;Cefet/RJ;Nova Iguaçu ;RJ;2015;SUDESTE;PÚBLICA;CEFET-RJ;-22.7592175;-43.4508728
+74;Meninas Paidéguas;Universidade Federal do Pará;Belém e Castanhal ;PA;2019;NORTE;PÚBLICA;UFPA;-1.2889234;-47.9532731
+75;Meninas Programadoras;Universidade de São Paulo;São Carlos ;SP;2021;SUDESTE;PÚBLICA;USP;-22.0180395;-47.891154
+76;Meninas Programadoras JF;Universidade Federal de Juiz de Fora  UFJF;Juiz de fora ;MG;2023;SUDESTE;PÚBLICA;UFJF;-21.7609533;-43.3501129
+77;Meninas.comp  Computação Também é Coisa de Menina!;Departamento de Ciência da Computação da Universidade de Brasília;Brasília ;DF;2011;CO;PÚBLICA;UnB;-15.7934036;-47.8823172
+78;Mermãs Digitais;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Imperatriz ;MA;2020;NORTE;PÚBLICA;IFMA;-5.5269279;-47.478115
+79;Metabotix;Instituto Federal de Goiás Campus Luziânia;Luziânia ;GO;2013;CO;PÚBLICA;IFG;-16.2535456;-47.9500276
+80;Min@sTech;Universidade Federal de Viçosa  UFV;Viçosa ;MG;2023;SUDESTE;PÚBLICA;UFV;-20.7538586;-42.8815888
+81;MinasCoders;Universidade Federal de Viçosa Campus Florestal;Florestal ;MG;2015;SUDESTE;PÚBLICA;UFV;-19.8878705;-44.4314766
+82;Minerv@s Digitais;UFRJ;Rio de Janeiro ;RJ;2018;SUDESTE;PÚBLICA;UFRJ;-22.9110137;-43.2093727
+83;Mininas na Ciência;Instituto Federal de Sergipe (IFS  Campus Propriá);Propriá;SE;2021;NORDESTE;PÚBLICA;IFS;-10.212427;-36.8372254
+84;Mocinhas da Computação;Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE);Canindé e Baturité ;CE;2017;NORDESTE;PÚBLICA;IFCE;;
+85;Mulheres na Computação UFERSA;Universidade Federal Rural do Semi Árido (UFERSA);Pau dos Ferros ;RN;2019;NORDESTE;PÚBLICA;UFERSA;-6.1124964;-38.2062628
+86;Paragobyte Girls;Instituto Federal de Educação, Ciência e Tecnologia do Pará  Campus Paragominas;Paragominas ;PA;2017;NORTE;PÚBLICA;IFPA;-2.99564;-47.3548942
+87;Pérolas Digitais;Universidade Federal do Oeste do Pará e Centro Acadêmico de Ciência da Computação;Santarém ;PA;2023;NORTE;PÚBLICA;UFOPA;-2.438489;-54.699611
+88;PROJETO ALICE;UNEMAT- Universidade do Estado de Mato Grosso  Campus Universitário Renê Barbour;Barra do Bugres ;MT;2019;CO;PÚBLICA;UNEMAT;-15.0683712;-57.1853688
+89;Projeto de Extensão CODEGATAS;Universidade Federal do Espírito Santo;Alegre ;ES;2022;SUDESTE;PÚBLICA;UFES;-20.7625787;-41.5318886
+90;Projeto Lua;IFCE;Tianguá;CE;2019;NORDESTE;PÚBLICA;IFCE;-3.7307332;-41.0004019
+91;PS4W  Programa Sabará for Women;Instituto Federal de Minas Gerais  Sabará;Sabará ;MG;2019;SUDESTE;PÚBLICA;IFMG;-19.8900372;-43.8107916
+92;SIsters  Sororidade em Sistemas de Informação;Universidade Federal do Estado do Rio de Janeiro (UNIRIO);Rio de Janeiro ;RJ;2020;SUDESTE;PÚBLICA;UNIRIO;-22.9110137;-43.2093727
+93;STEM para meninas;UFPE;Recife ;PE;2020;NORDESTE;PÚBLICA;UFPE;-8.0584933;-34.8848193
+94;Techmanas;Universidade Federal do Pará;Tucuruí ;PA;2019;NORTE;PÚBLICA;UFPA;-3.766334;-49.6663654
+95;Techno Girls;Centro Universitário Una;Belo Horizonte ;MG;2018;SUDESTE;PRIVADA;UNA;-19.9227318;-43.9450948
+96;Technovation Girls Brasil;Instituto Paramitas  Brasil;São Paulo ;SP;2008;SUDESTE;PRIVADA;PARAMITAS;-23.682794700000002;-46.716998204286014
+97;TIChers;Universidade Tecnológica Federal do Paraná  campus Curitiba;Curitiba ;PR;2019;SUL;PÚBLICA;UTFPR;-25.4295963;-49.2712724
+98;TWIST;PUC-Rio;Rio de Janeiro;RJ;2023;SUDESTE;PRIVADA;PUC;-22.9110137;-43.2093727
+99;Valerinas;niversidade do Estado de Santa Catarina  UDESC  Campus Alto Vale;Ibirama;SC;2023;SUL;PÚBLICA;UDESC;-27.0537021;-49.5190771
+100;WoMakersCode;PUCRS, Fadergs, UFRJ, Estácio e InfNet;Rio de Janeiro;RJ;2015;SUDESTE;MISTA;PUC/UFRJ;-22.9110137;-43.2093727
