@@ -45,7 +45,7 @@ def generate_map(data, lat_col, lon_col, tooltip_cols=[]):
     st.pydeck_chart(map)
 
 # Carregar dados
-data_file = './data/data_clean.csv'  # Substitua pelo caminho real do seu arquivo
+data_file = './dados.csv'  # Substitua pelo caminho real do seu arquivo
 data = load_and_clean_data(data_file)
 
 st.title('Mulheres na TI')
