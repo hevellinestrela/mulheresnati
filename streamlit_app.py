@@ -27,7 +27,7 @@ def generate_map(data, lat_col, lon_col, tooltip_cols=[]):
     map = pdk.Deck(map_style="mapbox://styles/mapbox/light-v9", initial_view_state=view_state, layers=[layer], tooltip=tool_tip)
     st.pydeck_chart(map)
 
-data_file = './data_final.csv'
+data_file = './dados_final.csv'
 data = load_and_clean_data(data_file)
 
 st.title('Mulheres na TI')
